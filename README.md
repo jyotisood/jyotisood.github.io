@@ -1,7 +1,7 @@
 # jyotisood.github.io
 
 
-# Project 1: {MS-Azure-ML-Capstone-Project}(https://github.com/jyotisood/MS-Azure-ML-Capstone-Project)
+# Project 1: [MS-Azure-ML-Capstone-Project](https://github.com/jyotisood/MS-Azure-ML-Capstone-Project)
 
 ## Overview
 This Capstone project is the final requisite in Udacity Microsoft Azure ML Nanodegree. In this project, we work with a dataset of our choice to solve a Machine Learning problem using two approaches in Azure ML - AutoML and Hyperdrive. Finally the best model, out of both is chosen, deployed and consumed.
